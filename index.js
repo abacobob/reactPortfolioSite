@@ -8,8 +8,8 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 import { Container, Row, Col, Table} from 'reactstrap';
 
 //Importing custom modules
-import OrderParent from './orderModule.js';
-import * as serviceWorker from './serviceWorker';
+import OrderParent from './demo-app/src/orderModule.js';
+import * as serviceWorker from './demo-app/src/serviceWorker';
 
 
 //date functionality for 'daily menu'
